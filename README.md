@@ -7,10 +7,10 @@ Repo for uploading the posts.
 ## Index of completed transfers
 
 * [2020-04-28](./posts/2020-04-28.md)
-* [2020-03-23](./posts/2020-03-23.md) 
+* [2020-03-23](./posts/2020-03-23.md)
   * [mbcrusher.com: 1](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？)
   * [mbj](https://mb-next-eight.vercel.app/posts/2020-03-23)
-
+* .... next?
 
 ## ... posts to transfer
 
@@ -79,7 +79,7 @@ See an example as below
 For images in the post, use the following snippet
 
 ```
-<img 
+<img
     src="../img/posts/YYYY-MM-DD/{IMG-FILE}"
     alt="{IMG-FILE-NAME}"
     class="rounded-2xl"
@@ -90,14 +90,14 @@ Comment to the src:
 {IMG-FILE} is the image downloaded from the original post in https://mbcrusher.com
 
 Comment to the alt:
-{IMG-FILE-NAME} is the name of image file, where the "-" or "_" are replaced with spaces. 
+{IMG-FILE-NAME} is the name of image file, where the "-" or "_" are replaced with spaces.
 
 ### Load Videos
 For VIMEO videos, use the following snippet
 
 ```
 <a href="https://vimeo.com/{VIMEO-ID}" target="_blank">
-<img 
+<img
     src="https://i.vimeocdn.com/filter/overlay?src0={THUMBNAIL-IMG}&src1=https://mb-next-eight.vercel.app/img/overlay/play_ymb.png"
     alt="{TITLE-OF-VIMEO-VIDEO}"
     class="rounded-2xl"
@@ -106,7 +106,7 @@ For VIMEO videos, use the following snippet
 
 ```
 
-where 
+where
 
 - {VIMEO-ID} is the id of vimeo video
 - {TITLE-OF-VIMEO-VIDEO} is the title of the vimeo video (https://vimeo.com/{VIMEO-ID}), with "-" or "_" replaced by spaces
@@ -127,7 +127,7 @@ full snippet:
 
 ```
 <a href="https://vimeo.com/373376528" target="_blank">
-<img 
+<img
     src="https://i.vimeocdn.com/filter/overlay?src0=https://i.vimeocdn.com/video/831478626_1280.jpg&src1=https://mb-next-eight.vercel.app/img/overlay/play_ymb.png"
     alt="BF70.2 Kobelco Hungary recycling demolition waste"
     class="rounded-2xl"
@@ -190,7 +190,7 @@ function pbcopy(data) {
 };
 ```
 
-Run: 
+Run:
 
 ```
 # install the node dependencies
@@ -203,4 +203,3 @@ $ tsc main.ts
 $ node main.js
 
 ```
-
