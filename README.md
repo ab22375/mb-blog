@@ -10,7 +10,7 @@ Repo for uploading the posts.
 * [2020-03-23](./posts/2020-03-23.md)
   * [mbcrusher.com: 1](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？)
   * [mbj](https://mb-next-eight.vercel.app/posts/2020-03-23)
-* .... next?
+* .... **checking the recently posted files**
 
 ## ... posts to transfer
 
