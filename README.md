@@ -10,13 +10,18 @@ Repo for uploading the posts.
 * [2020-03-23](./posts/2020-03-23.md)
   * [mbcrusher.com: 1](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？)
   * [mbj](https://mb-next-eight.vercel.app/posts/2020-03-23)
+
+* [2020-02-25]
+  * [mbcrusher.com: 3](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーのツインヘッダー：橋の上や交通量の多い道路での工事に最適)
+  * [mbj](https://mb-next-eight.vercel.app/posts/2020-02-25)
+
+
 * .... **checking the recently posted files (2021-03-18 16:10)**
 
 ## ... posts to transfer
 
 
 | [2](https://www.mbcrusher.com/ja/jp/お知らせ/news/スキッドステアローダ、ホイールローダ、バックホーローダ-br-最大効果を得るための９つのポイント)
-| [3](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーのツインヘッダー：橋の上や交通量の多い道路での工事に最適)
 | [4](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物：それ、本当に廃棄物？)
 | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/えっ、それ可能なの？-ちょっと特殊な作業でもmbアタッチメントを使ってサクッと処理)
 | [6](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物を処理する５つのシンプルな方法)
