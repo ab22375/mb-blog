@@ -19,17 +19,22 @@ Repo for uploading the posts.
   * [2](https://www.mbcrusher.com/ja/jp/お知らせ/news/スキッドステアローダ、ホイールローダ、バックホーローダ-br-最大効果を得るための９つのポイント)
   * [mbj](https://mb-next-eight.vercel.app/posts/2019-11-26)
 
+* [2019-10-15]
+  * [4](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物：それ、本当に廃棄物？)
+  * [mbj](https://mb-next-eight.vercel.app/posts/2019-10-15)
 
-
+* [2019-07-30]
+  * [6](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物を処理する５つのシンプルな方法)
+  * [mbj](https://mb-next-eight.vercel.app/posts/2019-07-30)
 
 * .... **checking the recently posted files (2021-03-18 16:10)**
 
 ## ... posts to transfer
 
  
-* [4](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物：それ、本当に廃棄物？)
+
 * [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/えっ、それ可能なの？-ちょっと特殊な作業でもmbアタッチメントを使ってサクッと処理)
-* [6](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物を処理する５つのシンプルな方法)
+
 * [7](https://www.mbcrusher.com/ja/jp/お知らせ/news/次世代mbツインヘッダーを使う理由)
 * [8](https://www.mbcrusher.com/ja/jp/お知らせ/news/立ち止まることはできない、とデータが語る。-現場のプロたちの言葉。)
 * [9](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーが新世代ロータリースクリーニングバケットを発表：様々な素材を素早く処理する多機能システム登場)
