@@ -32,32 +32,27 @@ Repo for uploading the posts.
 
 * [2018-11-20](./posts/2018-11-20.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-11-20) | [MBジャパン & コベルコ建機](https://www.mbcrusher.com/ja/jp/お知らせ/news/MBジャパン-&-コベルコ建機) 
 
+* [2018-11-08](./posts/2018-11-08.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-11-08) | [mbクラッシャージャパン-コマツ](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャージャパン-コマツ) 
+
+* [2018-10-23](./posts/2018-10-23.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-10-23) | [鋳造産業：スクラップから価値を生み出す](https://www.mbcrusher.com/ja/jp/お知らせ/news/鋳造産業：スクラップから価値を生み出す) 
+
+* [2018-09-25](./posts/2018-09-25.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-09-25) | [溝堀の進化-世界へ開拓](https://www.mbcrusher.com/ja/jp/お知らせ/news/溝堀の進化-世界へ開拓) 
+
+
 
 <!-- 
 
+* [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [XX](https://www.mbcrusher.com/ja/jp/お知らせ/news/XX) 
 
-* [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
-
-* [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
-
-* [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
-
- -->
+-->
 * .... **checking the recently posted files (2021-03-18 16:10)**
 
 ## ... posts to transfer
 
  
-
-
-* [11](https://www.mbcrusher.com/ja/jp/お知らせ/news/バケットクラッシャーの姿が見えません。　でもそっとしておきましょう。)
-* [12](https://www.mbcrusher.com/ja/jp/お知らせ/news/作業現場はいつでも活気に溢れています)
 * [13](https://www.mbcrusher.com/ja/jp/お知らせ/news/スウィートな仕事)
 * [14](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbジャパン-コベルコ建機)
-* [15](https://www.mbcrusher.com/ja/jp/お知らせ/news/鋳造産業：スクラップから価値を生み出す)
-* [16](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャージャパン-コマツ)
 * [17](https://www.mbcrusher.com/ja/jp/お知らせ/news/fifa-2022-カタール大会に向けmbクラッシャー大活躍。)
-* [18](https://www.mbcrusher.com/ja/jp/お知らせ/news/溝堀の進化-世界へ開拓)
 * [19](https://www.mbcrusher.com/ja/jp/お知らせ/news/解体と建築からなる廃棄物の新時代。)
 * [20](https://www.mbcrusher.com/ja/jp/お知らせ/news/2018年3月18日。-世界中で、リサイクルのすべてに捧げる1日。)
 * [21](https://www.mbcrusher.com/ja/jp/お知らせ/news/素晴らしい！　bf１５０.１０はアルメニアの採石場にて硬い岩を粉砕！)
