@@ -9,7 +9,6 @@ Repo for uploading the posts.
 * [2020-04-28](./posts/2020-04-28.md) 
 
 * [2020-03-23](./posts/2020-03-23.md) | [mbj](https://mb-next-eight.vercel.app/posts/2020-03-23) | [ロータリースクリーニングバケットmb-hdsで何が処理できる？](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？) 
-}
 
 * [2020-02-25](./posts/2020-02-25.md) | [mbj](https://mb-next-eight.vercel.app/posts/2020-02-25) | [mbクラッシャーのツインヘッダー：橋の上や交通量の多い道路での工事に最適](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーのツインヘッダー：橋の上や交通量の多い道路での工事に最適) 
 
@@ -27,19 +26,19 @@ Repo for uploading the posts.
 
 * [2019-03-14](./posts/2019-03-14.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-03-14) | [離島とアタッチメント：離島での工事に伴う数々の難関を乗り越え、問題点を収益力に転換。「不可能」を「可能」に切り替えた事例を４件ご紹介します。](https://www.mbcrusher.com/ja/jp/お知らせ/news/離島とアタッチメント：離島での工事に伴う数々の難関を乗り越え、問題点を収益力に転換。「不可能」を「可能」に切り替えた事例を４件ご紹介します。) 
 
+* [2019-02-01](./posts/2019-02-01.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-02-01) | [立ち止まることはできない、とデータが語る。-現場のプロたちの言葉。](https://www.mbcrusher.com/ja/jp/お知らせ/news/立ち止まることはできない、とデータが語る。-現場のプロたちの言葉。) 
+
+<!-- 
 * [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
 
 * [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
 
-* [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
-
-
+ -->
 * .... **checking the recently posted files (2021-03-18 16:10)**
 
 ## ... posts to transfer
 
  
-* [8](https://www.mbcrusher.com/ja/jp/お知らせ/news/立ち止まることはできない、とデータが語る。-現場のプロたちの言葉。)
 
 
 * [11](https://www.mbcrusher.com/ja/jp/お知らせ/news/バケットクラッシャーの姿が見えません。　でもそっとしておきましょう。)
