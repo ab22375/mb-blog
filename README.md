@@ -18,19 +18,19 @@ Repo for uploading the posts.
 
 * [2019-07-30](./posts/2019-07-30.md) | [6](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物を処理する５つのシンプルな方法) | [mbj](https://mb-next-eight.vercel.app/posts/2019-07-30)
 
-* [2019-06-24](./posts/2019-06-24.md) | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/えっ、それ可能なの？ちょっと特殊な作業でもMBアタッチメントを使ってサクッと処理) | [mbj](https://mb-next-eight.vercel.app/posts/2019-06-24)
+* [2019-06-24](./posts/2019-06-24.md) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/えっ、それ可能なの？ちょっと特殊な作業でもMBアタッチメントを使ってサクッと処理) | [mbj](https://mb-next-eight.vercel.app/posts/2019-06-24)
 
-* [2019-05-31](./posts/2019-05-31.md) | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/次世代mbツインヘッダーを使う理由) | [mbj](https://mb-next-eight.vercel.app/posts/2019-05-31)
+* [2019-05-31](./posts/2019-05-31.md) | [7](https://www.mbcrusher.com/ja/jp/お知らせ/news/次世代mbツインヘッダーを使う理由) | [mbj](https://mb-next-eight.vercel.app/posts/2019-05-31)
 
-* [2019-04-16](./posts/2019-04-16.md) | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーが新世代ロータリースクリーニングバケットを発表：様々な素材を素早く処理する多機能システム登場) | [mbj](https://mb-next-eight.vercel.app/posts/2019-04-16)
+* [2019-04-16](./posts/2019-04-16.md) | [9](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーが新世代ロータリースクリーニングバケットを発表：様々な素材を素早く処理する多機能システム登場) | [mbj](https://mb-next-eight.vercel.app/posts/2019-04-16)
 
-* [0000-00-00](./posts/0000-00-00.md) | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
+* [2019-03-14](./posts/2019-03-14.md) | [10](https://www.mbcrusher.com/ja/jp/お知らせ/news/離島とアタッチメント：離島での工事に伴う数々の難関を乗り越え、問題点を収益力に転換。「不可能」を「可能」に切り替えた事例を４件ご紹介します。) | [mbj](https://mb-next-eight.vercel.app/posts/2019-03-14)
 
-* [0000-00-00](./posts/0000-00-00.md) | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
+* [0000-00-00](./posts/0000-00-00.md) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
 
-* [0000-00-00](./posts/0000-00-00.md) | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
+* [0000-00-00](./posts/0000-00-00.md) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
 
-* [0000-00-00](./posts/0000-00-00.md) | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
+* [0000-00-00](./posts/0000-00-00.md) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
 
 
 * .... **checking the recently posted files (2021-03-18 16:10)**
@@ -38,10 +38,9 @@ Repo for uploading the posts.
 ## ... posts to transfer
 
  
-* [7](https://www.mbcrusher.com/ja/jp/お知らせ/news/次世代mbツインヘッダーを使う理由)
 * [8](https://www.mbcrusher.com/ja/jp/お知らせ/news/立ち止まることはできない、とデータが語る。-現場のプロたちの言葉。)
-* [9](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーが新世代ロータリースクリーニングバケットを発表：様々な素材を素早く処理する多機能システム登場)
-* [10](https://www.mbcrusher.com/ja/jp/お知らせ/news/離島とアタッチメント：離島での工事に伴う数々の難関を乗り越え、問題点を収益力に転換。「不可能」を「可能」に切り替えた事例を４件ご紹介します。)
+
+
 * [11](https://www.mbcrusher.com/ja/jp/お知らせ/news/バケットクラッシャーの姿が見えません。　でもそっとしておきましょう。)
 * [12](https://www.mbcrusher.com/ja/jp/お知らせ/news/作業現場はいつでも活気に溢れています)
 * [13](https://www.mbcrusher.com/ja/jp/お知らせ/news/スウィートな仕事)
