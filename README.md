@@ -18,7 +18,7 @@ Repo for uploading the posts.
 
 * [2019-07-30](./posts/2019-07-30.md) | [6](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物を処理する５つのシンプルな方法) | [mbj](https://mb-next-eight.vercel.app/posts/2019-07-30)
 
-* [2019-06-24](./posts/2019-06-24.md) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/えっ、それ可能なの？ちょっと特殊な作業でもMBアタッチメントを使ってサクッと処理) | [mbj](https://mb-next-eight.vercel.app/posts/2019-06-24)
+* [2019-06-24](./posts/2019-06-24.md) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/えっ、それ可能なの？-ちょっと特殊な作業でもmbアタッチメントを使ってサクッと処理) | [mbj](https://mb-next-eight.vercel.app/posts/2019-06-24)
 
 * [2019-05-31](./posts/2019-05-31.md) | [7](https://www.mbcrusher.com/ja/jp/お知らせ/news/次世代mbツインヘッダーを使う理由) | [mbj](https://mb-next-eight.vercel.app/posts/2019-05-31)
 
