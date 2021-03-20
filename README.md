@@ -38,6 +38,18 @@ Repo for uploading the posts.
 
 * [2018-09-25](./posts/2018-09-25.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-09-25) | [溝堀の進化-世界へ開拓](https://www.mbcrusher.com/ja/jp/お知らせ/news/溝堀の進化-世界へ開拓) 
 
+* [2018-08-28](./posts/2018-08-28.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-08-28) | [解体と建築からなる廃棄物の新時代。](https://www.mbcrusher.com/ja/jp/お知らせ/news/解体と建築からなる廃棄物の新時代。) 
+
+
+* [2018-07-18](./posts/2018-07-18.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-07-18) | [fifa-2022-カタール大会に向けmbクラッシャー大活躍。](https://www.mbcrusher.com/ja/jp/お知らせ/news/fifa-2022-カタール大会に向けmbクラッシャー大活躍。) 
+
+* [2018-07-10](./posts/2018-07-10.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-07-10) | [素晴らしい！%E3%80%80bf１５０.１０はアルメニアの採石場にて硬い岩を粉砕！](https://www.mbcrusher.com/ja/jp/お知らせ/news/素晴らしい！%E3%80%80bf１５０.１０はアルメニアの採石場にて硬い岩を粉砕！) 
+
+* [2018-03-12](./posts/2018-03-12.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-03-12) | [2018年3月18日。 世界中で、リサイクルのすべてに捧げる1日。](https://www.mbcrusher.com/ja/jp/お知らせ/news/2018%E5%B9%B43%E6%9C%8818%E6%97%A5%E3%80%82-%E4%B8%96%E7%95%8C%E4%B8%AD%E3%81%A7%E3%80%81%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AB%E6%8D%A7%E3%81%92%E3%82%8B1%E6%97%A5%E3%80%82) 
+
+* [2018-02-23](./posts/2018-02-23.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-02-23) | [MB 高性能ツインヘッダー](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-%E9%AB%98%E6%80%A7%E8%83%BD%E3%83%84%E3%82%A4%E3%83%B3%E3%83%98%E3%83%83%E3%83%80%E3%83%BC) 
+
+
 
 
 <!-- 
@@ -49,11 +61,7 @@ Repo for uploading the posts.
 
 ## ... posts to transfer
 
- 
-* [13](https://www.mbcrusher.com/ja/jp/お知らせ/news/スウィートな仕事)
-* [14](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbジャパン-コベルコ建機)
-* [17](https://www.mbcrusher.com/ja/jp/お知らせ/news/fifa-2022-カタール大会に向けmbクラッシャー大活躍。)
-* [19](https://www.mbcrusher.com/ja/jp/お知らせ/news/解体と建築からなる廃棄物の新時代。)
+
 * [20](https://www.mbcrusher.com/ja/jp/お知らせ/news/2018年3月18日。-世界中で、リサイクルのすべてに捧げる1日。)
 * [21](https://www.mbcrusher.com/ja/jp/お知らせ/news/素晴らしい！　bf１５０.１０はアルメニアの採石場にて硬い岩を粉砕！)
 * [22](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-r500、ツインヘッダー)
@@ -80,6 +88,8 @@ Repo for uploading the posts.
 * [43](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-@-bauma-2013)
 * [44](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb社製品が倍増　－　新モデルmb-l登場！)
 
+* [13](https://www.mbcrusher.com/ja/jp/お知らせ/news/スウィートな仕事)
+* [14](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbジャパン-コベルコ建機)
 
 
 ## Instructions
