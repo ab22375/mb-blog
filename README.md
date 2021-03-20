@@ -30,9 +30,10 @@ Repo for uploading the posts.
 
 * [2019-01-15](./posts/2019-01-15.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-01-15) | [作業現場はいつでも活気に溢れています](https://www.mbcrusher.com/ja/jp/お知らせ/news/作業現場はいつでも活気に溢れています) 
 
+* [2018-12-18](./posts/2018-12-18.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-12-18) | [バケットクラッシャーの姿が見えません。%E3%80%80でもそっとしておきましょう。](https://www.mbcrusher.com/ja/jp/お知らせ/news/バケットクラッシャーの姿が見えません。%E3%80%80でもそっとしておきましょう。) 
+
 <!-- 
 
-* [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
 
 * [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
 
