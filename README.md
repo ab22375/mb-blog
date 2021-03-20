@@ -22,7 +22,7 @@ Repo for uploading the posts.
 
 * [2019-05-31](./posts/2019-05-31.md) | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/次世代mbツインヘッダーを使う理由) | [mbj](https://mb-next-eight.vercel.app/posts/2019-05-31)
 
-* [0000-00-00](./posts/0000-00-00.md) | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
+* [2019-04-16](./posts/2019-04-16.md) | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーが新世代ロータリースクリーニングバケットを発表：様々な素材を素早く処理する多機能システム登場) | [mbj](https://mb-next-eight.vercel.app/posts/2019-04-16)
 
 * [0000-00-00](./posts/0000-00-00.md) | [5](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
 
