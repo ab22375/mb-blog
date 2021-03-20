@@ -49,8 +49,17 @@ Repo for uploading the posts.
 
 * [2018-02-23](./posts/2018-02-23.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-02-23) | [MB 高性能ツインヘッダー](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-%E9%AB%98%E6%80%A7%E8%83%BD%E3%83%84%E3%82%A4%E3%83%B3%E3%83%98%E3%83%83%E3%83%80%E3%83%BC) 
 
+* [2017-12-06](./posts/2017-12-06.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-12-06) | [mbに新シリーズ登場！](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbに新シリーズ登場！) 
 
+* [2017-08-16](./posts/2017-08-16.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-08-16) | [ブドウの収穫は最盛期...-意外な場所でもmbが活躍](https://www.mbcrusher.com/ja/jp/お知らせ/news/ブドウの収穫は最盛期...-意外な場所でもmbが活躍) 
 
+* [2017-08-08](./posts/2017-08-08.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-08-08) | [XX](https://www.mbcrusher.com/ja/jp/お知らせ/news/XX) 
+
+* [2017-06-09](./posts/2017-06-09.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-06-09) | [mbクラッシャー-利益と環境保護を同時に実現](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャー-利益と環境保護を同時に実現) 
+
+* [2017-05-24](./posts/2017-05-24.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-05-24) | [AUTOSTRADA POLSKA 2017](https://www.mbcrusher.com/ja/jp/お知らせ/news/XX) 
+
+* [2017-05-22](./posts/2017-05-22.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-05-22) | [2017NEW環境展　MBクラッシャーの革新](https://www.mbcrusher.com/ja/jp/お知らせ/news/2017new環境展%E3%80%80mbクラッシャーの革新) 
 
 <!-- 
 
@@ -66,12 +75,9 @@ Repo for uploading the posts.
 * [21](https://www.mbcrusher.com/ja/jp/お知らせ/news/素晴らしい！　bf１５０.１０はアルメニアの採石場にて硬い岩を粉砕！)
 * [22](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-r500、ツインヘッダー)
 * [23](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-高性能ツインヘッダー)
-* [24](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbに新シリーズ登場！)
-* [25](https://www.mbcrusher.com/ja/jp/お知らせ/news/ブドウの収穫は最盛期...-意外な場所でもmbが活躍)
 * [26](https://www.mbcrusher.com/ja/jp/お知らせ/news/ペルーの採掘現場で、バケットクラッシャーbf120.4はキャタピラー336の重機に取り付けられています。bf120.4で破砕された骨材は様々な方法でリサイクルされます。)
-* [27](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャー-利益と環境保護を同時に実現)
+
 * [28](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャー、-autostrada-polska-2017にて特別賞を獲得)
-* [29](https://www.mbcrusher.com/ja/jp/お知らせ/news/2017new環境展　mbクラッシャーの革新)
 * [30](https://www.mbcrusher.com/ja/jp/お知らせ/news/山頂での破砕)
 * [31](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbバケットクラッシャー-玄武岩の破砕が可能になりました！)
 * [32](https://www.mbcrusher.com/ja/jp/お知らせ/news/固定式破砕機とバケットクラッシャーの同時利用のご提案)
