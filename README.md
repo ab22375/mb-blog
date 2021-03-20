@@ -28,7 +28,14 @@ Repo for uploading the posts.
 
 * [2019-02-01](./posts/2019-02-01.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-02-01) | [立ち止まることはできない、とデータが語る。-現場のプロたちの言葉。](https://www.mbcrusher.com/ja/jp/お知らせ/news/立ち止まることはできない、とデータが語る。-現場のプロたちの言葉。) 
 
+* [2019-01-15](./posts/2019-01-15.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-01-15) | [作業現場はいつでも活気に溢れています](https://www.mbcrusher.com/ja/jp/お知らせ/news/作業現場はいつでも活気に溢れています) 
+
 <!-- 
+
+* [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
+
+* [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
+
 * [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
 
 * [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
