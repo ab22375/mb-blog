@@ -1,5 +1,3 @@
-
-
 Repo for uploading the posts.
 
 [Lancers workspace](https://www.lancers.jp/workspace/8775)
@@ -31,6 +29,9 @@ Repo for uploading the posts.
 * [2019-01-15](./posts/2019-01-15.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-01-15) | [作業現場はいつでも活気に溢れています](https://www.mbcrusher.com/ja/jp/お知らせ/news/作業現場はいつでも活気に溢れています) 
 
 * [2018-12-18](./posts/2018-12-18.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-12-18) | [バケットクラッシャーの姿が見えません。%E3%80%80でもそっとしておきましょう。](https://www.mbcrusher.com/ja/jp/お知らせ/news/バケットクラッシャーの姿が見えません。%E3%80%80でもそっとしておきましょう。) 
+
+* [2018-11-20](./posts/2018-11-20.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-11-20) | [MBジャパン & コベルコ建機](https://www.mbcrusher.com/ja/jp/お知らせ/news/MBジャパン-&-コベルコ建機) 
+
 
 <!-- 
 
