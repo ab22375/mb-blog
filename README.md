@@ -7,30 +7,31 @@ Repo for uploading the posts.
 ## Index of completed transfers
 
 * [2020-04-28](./posts/2020-04-28.md) 
-* [2020-03-23](./posts/2020-03-23.md) | [ロータリースクリーニングバケットmb-hdsで何が処理できる？](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？) | [mbj](https://mb-next-eight.vercel.app/posts/2020-03-23)
+
+* [2020-03-23](./posts/2020-03-23.md) | [mbj](https://mb-next-eight.vercel.app/posts/2020-03-23) | [ロータリースクリーニングバケットmb-hdsで何が処理できる？](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？) 
 }
 
-* [2020-02-25](./posts/2020-02-25.md) | [mbクラッシャーのツインヘッダー：橋の上や交通量の多い道路での工事に最適](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーのツインヘッダー：橋の上や交通量の多い道路での工事に最適) | [mbj](https://mb-next-eight.vercel.app/posts/2020-02-25)
+* [2020-02-25](./posts/2020-02-25.md) | [mbj](https://mb-next-eight.vercel.app/posts/2020-02-25) | [mbクラッシャーのツインヘッダー：橋の上や交通量の多い道路での工事に最適](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーのツインヘッダー：橋の上や交通量の多い道路での工事に最適) 
 
-* [2019-11-26](./posts/2019-11-26.md) | [スキッドステアローダ、ホイールローダ、バックホーローダ-br-最大効果を得るための９つのポイント](https://www.mbcrusher.com/ja/jp/お知らせ/news/スキッドステアローダ、ホイールローダ、バックホーローダ-br-最大効果を得るための９つのポイント) | [mbj](https://mb-next-eight.vercel.app/posts/2019-11-26)
+* [2019-11-26](./posts/2019-11-26.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-11-26) | [スキッドステアローダ、ホイールローダ、バックホーローダ-br-最大効果を得るための９つのポイント](https://www.mbcrusher.com/ja/jp/お知らせ/news/スキッドステアローダ、ホイールローダ、バックホーローダ-br-最大効果を得るための９つのポイント) 
 
-* [2019-10-15](./posts/2019-10-15.md) | [建設副産物：それ、本当に廃棄物？](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物：それ、本当に廃棄物？) | [mbj](https://mb-next-eight.vercel.app/posts/2019-10-15)
+* [2019-10-15](./posts/2019-10-15.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-10-15) | [建設副産物：それ、本当に廃棄物？](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物：それ、本当に廃棄物？) 
 
-* [2019-07-30](./posts/2019-07-30.md) | [建設副産物を処理する５つのシンプルな方法](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物を処理する５つのシンプルな方法) | [mbj](https://mb-next-eight.vercel.app/posts/2019-07-30)
+* [2019-07-30](./posts/2019-07-30.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-07-30) | [建設副産物を処理する５つのシンプルな方法](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物を処理する５つのシンプルな方法) 
 
-* [2019-06-24](./posts/2019-06-24.md) | [えっ、それ可能なの？-ちょっと特殊な作業でもmbアタッチメントを使ってサクッと処理](https://www.mbcrusher.com/ja/jp/お知らせ/news/えっ、それ可能なの？-ちょっと特殊な作業でもmbアタッチメントを使ってサクッと処理) | [mbj](https://mb-next-eight.vercel.app/posts/2019-06-24)
+* [2019-06-24](./posts/2019-06-24.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-06-24) | [えっ、それ可能なの？-ちょっと特殊な作業でもmbアタッチメントを使ってサクッと処理](https://www.mbcrusher.com/ja/jp/お知らせ/news/えっ、それ可能なの？-ちょっと特殊な作業でもmbアタッチメントを使ってサクッと処理) 
 
-* [2019-05-31](./posts/2019-05-31.md) | [次世代mbツインヘッダーを使う理由](https://www.mbcrusher.com/ja/jp/お知らせ/news/次世代mbツインヘッダーを使う理由) | [mbj](https://mb-next-eight.vercel.app/posts/2019-05-31)
+* [2019-05-31](./posts/2019-05-31.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-05-31) | [次世代mbツインヘッダーを使う理由](https://www.mbcrusher.com/ja/jp/お知らせ/news/次世代mbツインヘッダーを使う理由) 
 
-* [2019-04-16](./posts/2019-04-16.md) | [mbクラッシャーが新世代ロータリースクリーニングバケットを発表：様々な素材を素早く処理する多機能システム登場](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーが新世代ロータリースクリーニングバケットを発表：様々な素材を素早く処理する多機能システム登場) | [mbj](https://mb-next-eight.vercel.app/posts/2019-04-16)
+* [2019-04-16](./posts/2019-04-16.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-04-16) | [mbクラッシャーが新世代ロータリースクリーニングバケットを発表：様々な素材を素早く処理する多機能システム登場](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーが新世代ロータリースクリーニングバケットを発表：様々な素材を素早く処理する多機能システム登場) 
 
-* [2019-03-14](./posts/2019-03-14.md) | [離島とアタッチメント：離島での工事に伴う数々の難関を乗り越え、問題点を収益力に転換。「不可能」を「可能」に切り替えた事例を４件ご紹介します。](https://www.mbcrusher.com/ja/jp/お知らせ/news/離島とアタッチメント：離島での工事に伴う数々の難関を乗り越え、問題点を収益力に転換。「不可能」を「可能」に切り替えた事例を４件ご紹介します。) | [mbj](https://mb-next-eight.vercel.app/posts/2019-03-14)
+* [2019-03-14](./posts/2019-03-14.md) | [mbj](https://mb-next-eight.vercel.app/posts/2019-03-14) | [離島とアタッチメント：離島での工事に伴う数々の難関を乗り越え、問題点を収益力に転換。「不可能」を「可能」に切り替えた事例を４件ご紹介します。](https://www.mbcrusher.com/ja/jp/お知らせ/news/離島とアタッチメント：離島での工事に伴う数々の難関を乗り越え、問題点を収益力に転換。「不可能」を「可能」に切り替えた事例を４件ご紹介します。) 
 
-* [0000-00-00](./posts/0000-00-00.md) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
+* [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
 
-* [0000-00-00](./posts/0000-00-00.md) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
+* [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
 
-* [0000-00-00](./posts/0000-00-00.md) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00)
+* [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [X](https://www.mbcrusher.com/ja/jp/お知らせ/news/) 
 
 
 * .... **checking the recently posted files (2021-03-18 16:10)**
