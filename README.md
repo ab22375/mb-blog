@@ -30,6 +30,8 @@ Repo for uploading the posts.
 
 * [2018-12-18](./posts/2018-12-18.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-12-18) | [バケットクラッシャーの姿が見えません。%E3%80%80でもそっとしておきましょう。](https://www.mbcrusher.com/ja/jp/お知らせ/news/バケットクラッシャーの姿が見えません。%E3%80%80でもそっとしておきましょう。) 
 
+* [2018-12-17](./posts/2018-12-17.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-12-17) | [スウィートな仕事](https://www.mbcrusher.com/ja/jp/お知らせ/news/スウィートな仕事) 
+
 * [2018-11-20](./posts/2018-11-20.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-11-20) | [MBジャパン & コベルコ建機](https://www.mbcrusher.com/ja/jp/お知らせ/news/MBジャパン-&-コベルコ建機) 
 
 * [2018-11-08](./posts/2018-11-08.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-11-08) | [mbクラッシャージャパン-コマツ](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャージャパン-コマツ) 
@@ -53,49 +55,54 @@ Repo for uploading the posts.
 
 * [2017-08-16](./posts/2017-08-16.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-08-16) | [ブドウの収穫は最盛期...-意外な場所でもmbが活躍](https://www.mbcrusher.com/ja/jp/お知らせ/news/ブドウの収穫は最盛期...-意外な場所でもmbが活躍) 
 
-* [2017-08-08](./posts/2017-08-08.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-08-08) | [XX](https://www.mbcrusher.com/ja/jp/お知らせ/news/XX) 
+* [2017-08-08](./posts/2017-08-08.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-08-08) | [ペルーの採掘現場で、バケットクラッシャーbf120.4はキャタピラー336の重機に取り付けられています。bf120.4で破砕された骨材は様々な方法でリサイクルされます。](https://www.mbcrusher.com/ja/jp/お知らせ/news/ペルーの採掘現場で、バケットクラッシャーbf120.4はキャタピラー336の重機に取り付けられています。bf120.4で破砕された骨材は様々な方法でリサイクルされます。) 
 
 * [2017-06-09](./posts/2017-06-09.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-06-09) | [mbクラッシャー-利益と環境保護を同時に実現](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャー-利益と環境保護を同時に実現) 
 
-* [2017-05-24](./posts/2017-05-24.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-05-24) | [AUTOSTRADA POLSKA 2017](https://www.mbcrusher.com/ja/jp/お知らせ/news/XX) 
+* [2017-05-24](./posts/2017-05-24.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-05-24) | [AUTOSTRADA POLSKA 2017](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャー、-autostrada-polska-2017にて特別賞を獲得) 
 
 * [2017-05-22](./posts/2017-05-22.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-05-22) | [2017NEW環境展　MBクラッシャーの革新](https://www.mbcrusher.com/ja/jp/お知らせ/news/2017new環境展%E3%80%80mbクラッシャーの革新) 
+
+* [2017-04-08](./posts/2017-04-08.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-04-08) | [mbバケットクラッシャー-玄武岩の破砕が可能になりました！](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbバケットクラッシャー-玄武岩の破砕が可能になりました！) 
+
+* [2017-04-07](./posts/2017-04-07.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-04-07) | [山頂での破砕](https://www.mbcrusher.com/ja/jp/お知らせ/news/山頂での破砕) 
+
+* [2017-01-25](./posts/2017-01-25.md) | [mbj](https://mb-next-eight.vercel.app/posts/2017-01-25) | [mbの革命は第4世代へ](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbの革命は第4世代へ) 
+
+* [2016-11-23](./posts/2016-11-23.md) | [mbj](https://mb-next-eight.vercel.app/posts/2016-11-23) | [固定式破砕機とバケットクラッシャーの同時利用のご提案](https://www.mbcrusher.com/ja/jp/お知らせ/news/固定式破砕機とバケットクラッシャーの同時利用のご提案) 
+
+* [2016-05-27](./posts/2016-05-27.md) | [mbj](https://mb-next-eight.vercel.app/posts/2016-05-27) | [コーカサスのガス輸送工事で活躍するmbスクリーンバケット](https://www.mbcrusher.com/ja/jp/お知らせ/news/コーカサスのガス輸送工事で活躍するmbスクリーンバケット) 
+
+* [2016-05-02](./posts/2016-05-02.md) | [mbj](https://mb-next-eight.vercel.app/posts/2016-05-02) | [mb-ブラジル・サンパウロ支社をオープン](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-ブラジル・サンパウロ支社をオープン) 
+
+* [2016-04-18](./posts/2016-04-18.md) | [mbj](https://mb-next-eight.vercel.app/posts/2016-04-18) | [mb-バウマ2016にて世界の脚光を浴びる](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-バウマ2016にて世界の脚光を浴びる) 
+
+* [2015-04-10](./posts/2015-04-10.md) | [mbj](https://mb-next-eight.vercel.app/posts/2015-04-10) | [mbを導入するとこんなに違いがあります。-「mbアニメーション」。](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbを導入するとこんなに違いがあります。-「mbアニメーション」。) 
+
+- ADDED Z
+
+* [2018-04-23](./posts/2018-04-23.md) | [mbj](https://mb-next-eight.vercel.app/posts/2018-04-23) | [mb-r500、ツインヘッダー](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-r500、ツインヘッダー) 
+
+* [2016-10-04](./posts/2016-10-04.md) | [mbj](https://mb-next-eight.vercel.app/posts/2016-10-04) | [bf135.8とmb-s18-がサウジアラビアの大規模採石場で大活躍しています。](https://www.mbcrusher.com/ja/jp/お知らせ/news/bf135.8とmb-s18-がサウジアラビアの大規模採石場で大活躍しています。) 
+
 
 <!-- 
 
 * [0000-00-00](./posts/0000-00-00.md) | [mbj](https://mb-next-eight.vercel.app/posts/0000-00-00) | [XX](https://www.mbcrusher.com/ja/jp/お知らせ/news/XX) 
 
 -->
+
 * .... **checking the recently posted files (2021-03-18 16:10)**
 
 ## ... posts to transfer
 
+## Missing  
 
-* [20](https://www.mbcrusher.com/ja/jp/お知らせ/news/2018年3月18日。-世界中で、リサイクルのすべてに捧げる1日。)
-* [21](https://www.mbcrusher.com/ja/jp/お知らせ/news/素晴らしい！　bf１５０.１０はアルメニアの採石場にて硬い岩を粉砕！)
-* [22](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-r500、ツインヘッダー)
-* [23](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-高性能ツインヘッダー)
-* [26](https://www.mbcrusher.com/ja/jp/お知らせ/news/ペルーの採掘現場で、バケットクラッシャーbf120.4はキャタピラー336の重機に取り付けられています。bf120.4で破砕された骨材は様々な方法でリサイクルされます。)
-
-* [28](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャー、-autostrada-polska-2017にて特別賞を獲得)
-* [30](https://www.mbcrusher.com/ja/jp/お知らせ/news/山頂での破砕)
-* [31](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbバケットクラッシャー-玄武岩の破砕が可能になりました！)
-* [32](https://www.mbcrusher.com/ja/jp/お知らせ/news/固定式破砕機とバケットクラッシャーの同時利用のご提案)
-* [33](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbの革命は第4世代へ)
-* [34](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-ブラジル・サンパウロ支社をオープン)
-* [35](https://www.mbcrusher.com/ja/jp/お知らせ/news/コーカサスのガス輸送工事で活躍するmbスクリーンバケット)
-* [36](https://www.mbcrusher.com/ja/jp/お知らせ/news/bf135.8とmb-s18-がサEジアラビアの大規模採石場で大活躍しています。)
-* [37](https://www.mbcrusher.com/ja/jp/お知らせ/news/コマツ名古屋『お客様感謝フェア2015』に出展します。2015年3月14日、15日　株式会社前田製作所　コマツ名古屋-レンタル21)
-* [38](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbを導入するとこんなに違いがあります。-「mbアニメーション」。)
-* [39](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-バウマ2016にて世界の脚光を浴びる)
-* [40](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-japan-@-n-expo-2014-tokyo)
-* [41](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-c50が受賞！)
-* [42](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-japanは-ニシコン創立75周年　大感謝祭フェアーに参加します！-大阪でお待ちしています！)
-* [43](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-@-bauma-2013)
-* [44](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb社製品が倍増　－　新モデルmb-l登場！)
-
-* [13](https://www.mbcrusher.com/ja/jp/お知らせ/news/スウィートな仕事)
-* [14](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbジャパン-コベルコ建機)
+* [41](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-c50が受賞！) ARAB
+* [42](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-japanは-ニシコン創立75周年　大感謝祭フェアーに参加します！-大阪でお待ちしています！) EXIB
+* [43](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb-@-bauma-2013) ARAB
+* [44](https://www.mbcrusher.com/ja/jp/お知らせ/news/mb社製品が倍増　－　新モデルmb-l登場！) ARAB
+* [14](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbジャパン-コベルコ建機) EXIB
 
 
 ## Instructions
@@ -176,7 +183,8 @@ full snippet:
 
 - [thumbnail-downloader](https://thumbnail-downloader.com/vimeo/)
 - [vimeo info](https://player.vimeo.com/video/302289235/config)
-
+- [depone.dev](https://depone.dev/video/)
+- [videthumbnail](http://vimeothumbnail.way4info.net/v/266279412)
 
 
 ### Example to automatically find the image using VIMEO API:
